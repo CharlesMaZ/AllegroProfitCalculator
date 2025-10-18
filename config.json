@@ -1,0 +1,14 @@
+{
+    "api": {
+        "client_id": "YOUR_CLIENT_ID",
+        "client_secret": "YOUR_CLIENT_SECRET",
+        "access_token": "YOUR_ACCESS_TOKEN",
+        "base_url": "https://api.allegro.pl"
+    },
+    "database": {
+        "path": "allegro.db"
+    },
+    "sync": {
+        "interval_minutes": 15
+    }
+}
